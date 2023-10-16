@@ -7,4 +7,14 @@ Note: This packages is tested on the Linux and mac. We recommended using Linux o
 
 ### Download the datasets
 
+\documentclass{article}
 
+\begin{document}
+
+\begin{itemize}
+  \item 첫 번째 항목
+  \item 두 번째 항목
+  \item 세 번째 항목
+\end{itemize}
+
+\end{document}
