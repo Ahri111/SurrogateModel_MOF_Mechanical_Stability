@@ -9,7 +9,7 @@ Note: This packages is tested on the Linux and mac. We recommended using Linux o
 ## Download the datasets
 
 - You can download the datasets in [my figshare link](https://doi.org/10.6084/m9.figshare.24316339).
-- All the CIF files and features that we utilized in our study can be found in the above link.\
+- All the CIF files and features that we utilized in our study can be found in the above link.
 - We recommend not changing the configuration of the folders.
 
 ## Scripts
