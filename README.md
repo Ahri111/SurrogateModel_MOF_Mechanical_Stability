@@ -12,4 +12,5 @@ You can download the datasets in [my figshare link](https://doi.org/10.6084/m9.f
 
 ## Scripts
 
->>> This is a
+> OptimalSurrogateKVRH.ipynb and OptimalSurrogateGVRH.ipynb contains the results of benchmarking.
+> Trainingsize.ipynb files contains the results of the robustness of each descriptor in terms of training size.
