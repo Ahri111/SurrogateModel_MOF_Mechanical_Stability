@@ -14,6 +14,15 @@ Data and scripts for predicting the mechanical properties of MOFs
 
 Note: This packages is tested on the Linux and mac. We recommended using Linux or Mac for implementing scripts.
 
+# Dependencies
+This project currently requires the following packages:
+
+* pandas 1.5.1
+* matplotlib 3.5.2
+* numpy 1.20.3
+* sklearn
+* pycaret 2.3.10
+  
 ## Download the datasets
 
 - You can download the datasets in [my figshare link](https://doi.org/10.6084/m9.figshare.24316339).
