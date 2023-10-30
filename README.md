@@ -14,7 +14,7 @@ Data and scripts for predicting the mechanical properties of MOFs
 
 Note: This packages is tested on the Linux and mac. We recommended using Linux or Mac for implementing scripts.
 
-# Dependencies
+## Dependencies
 This project currently requires the following packages:
 
 * pandas 1.5.1
